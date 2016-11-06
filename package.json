@@ -9,8 +9,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yunnysunny/proxy-tool.git"
+  },
   "author": "yunnysunny <yunnysunny@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunnysunny/proxy-tool/issues"
+  },
+  "homepage": "https://github.com/yunnysunny/proxy-tool",
   "dependencies": {
     "async": "^2.1.2",
     "commander": "^2.9.0",
