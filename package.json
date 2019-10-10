@@ -25,7 +25,7 @@
     "async": "^2.1.2",
     "commander": "^2.9.0",
     "request": "^2.75.0",
-    "snyk": "^1.192.3"
+    "snyk": "^1.234.0"
   },
   "snyk": true
 }
