@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/yunnysunny/proxy-tool",
   "dependencies": {
-    "async": "^2.1.2",
+    "async": "^3.2.2",
     "commander": "^2.9.0",
     "request": "^2.75.0",
     "snyk": "^1.192.3"
